@@ -1,0 +1,25 @@
+{
+    "telemetry.machineId": "82deb32377bd2c5927d51135037091e1e5b9c7c2f1da0b3bab74e280dff7fc81",
+    "openedPathsList": {
+        "workspaces3": [
+            "file:///e%3A/code/git/weiboSpider"
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "d:\\Program Files\\VSCode-win32-x64-1.38.1\\data\\user-data\\Backups\\1568877847400",
+            "uiState": {
+                "mode": 1,
+                "x": 465,
+                "y": 161,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    },
+    "pickerWorkingDir": "E:\\code\\git"
+}

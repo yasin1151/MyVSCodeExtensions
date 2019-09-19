@@ -1,0 +1,5 @@
+{
+    "extensions.ignoreRecommendations": false,
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoGuessEncoding": true
+}

@@ -1,0 +1,28 @@
+[2019-09-19 15:24:10.804] [sharedprocess] [info] main {"machineId":"82deb32377bd2c5927d51135037091e1e5b9c7c2f1da0b3bab74e280dff7fc81"}
+[2019-09-19 15:24:26.571] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hans
+[2019-09-19 15:24:27.132] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-zh-hans c:\Users\duoyi\AppData\Local\Temp\8abe1d42-c889-4bc6-93de-e7626f949f99
+[2019-09-19 15:24:27.330] [sharedprocess] [info] Extracted extension to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\.ms-ceintl.vscode-language-pack-zh-hans-1.38.4: ms-ceintl.vscode-language-pack-zh-hans
+[2019-09-19 15:24:27.353] [sharedprocess] [info] Renamed to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\ms-ceintl.vscode-language-pack-zh-hans-1.38.4
+[2019-09-19 15:24:27.360] [sharedprocess] [info] Installation completed. ms-ceintl.vscode-language-pack-zh-hans
+[2019-09-19 15:24:27.409] [sharedprocess] [info] Extensions installed successfully: ms-ceintl.vscode-language-pack-zh-hans
+[2019-09-19 15:24:49.259] [sharedprocess] [info] main {"machineId":"82deb32377bd2c5927d51135037091e1e5b9c7c2f1da0b3bab74e280dff7fc81"}
+[2019-09-19 15:25:21.054] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-09-19 15:25:24.140] [sharedprocess] [info] Downloaded extension: ms-python.python c:\Users\duoyi\AppData\Local\Temp\095f7e49-cbac-46dd-adbd-f0fd7df4f5e8
+[2019-09-19 15:25:27.115] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2019-09-19 15:25:27.513] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner c:\Users\duoyi\AppData\Local\Temp\9d0ade0b-0f12-4ef5-8fc9-982cb96c95f8
+[2019-09-19 15:25:27.963] [sharedprocess] [info] Extracted extension to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\.formulahendry.code-runner-0.9.14: formulahendry.code-runner
+[2019-09-19 15:25:27.964] [sharedprocess] [info] Renamed to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\formulahendry.code-runner-0.9.14
+[2019-09-19 15:25:27.974] [sharedprocess] [info] Installation completed. formulahendry.code-runner
+[2019-09-19 15:25:28.026] [sharedprocess] [info] Extensions installed successfully: formulahendry.code-runner
+[2019-09-19 15:25:28.340] [sharedprocess] [info] Extracted extension to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\.ms-python.python-2019.9.34911: ms-python.python
+[2019-09-19 15:25:28.342] [sharedprocess] [info] Renamed to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\ms-python.python-2019.9.34911
+[2019-09-19 15:25:28.354] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-09-19 15:25:28.397] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2019-09-19 15:25:29.245] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-09-19 15:25:29.256] [sharedprocess] [info] Skipping directory 454fb54f7306176d5760953f2a2878cb.zh-cn. Language pack still in use.
+[2019-09-19 15:27:12.780] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2019-09-19 15:27:13.312] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons c:\Users\duoyi\AppData\Local\Temp\4a7a0058-4d44-4d54-ad1e-dde8198e30fc
+[2019-09-19 15:27:15.172] [sharedprocess] [info] Extracted extension to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\.vscode-icons-team.vscode-icons-9.3.0: vscode-icons-team.vscode-icons
+[2019-09-19 15:27:15.173] [sharedprocess] [info] Renamed to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\vscode-icons-team.vscode-icons-9.3.0
+[2019-09-19 15:27:15.179] [sharedprocess] [info] Installation completed. vscode-icons-team.vscode-icons
+[2019-09-19 15:27:15.232] [sharedprocess] [info] Extensions installed successfully: vscode-icons-team.vscode-icons
