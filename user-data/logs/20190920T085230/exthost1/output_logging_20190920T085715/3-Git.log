@@ -1,0 +1,87 @@
+正在查找 Git: C:\Program Files\Git\cmd\git.exe
+将使用位于 C:\Program Files\Git\cmd\git.exe 的 Git 2.23.0.windows.1
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: e:\code\git\weibonlp
+> git status -z -u
+> git show :weiboAPI.py
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'e:\code\git\weibonlp\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'e:\code\git\weibonlp\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\extensions\git\dist\main.js:1:594639)
+	at T.updateTransientWatchers (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\extensions\git\dist\main.js:1:98365)
+	at u.fire (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:227)
+	at k.updateModelState (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\extensions\git\dist\main.js:1:116241)
+> git show :weiboAPI.py
+> git status -z -u
+> git show :weiboAPI.py
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'e:\code\git\weibonlp\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'e:\code\git\weibonlp\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\extensions\git\dist\main.js:1:594639)
+	at T.updateTransientWatchers (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\extensions\git\dist\main.js:1:98365)
+	at u.fire (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:227)
+	at k.updateModelState (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\extensions\git\dist\main.js:1:116241)
+> git show :weiboAPI.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'e:\code\git\weibonlp\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'e:\code\git\weibonlp\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\extensions\git\dist\main.js:1:594639)
+	at T.updateTransientWatchers (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\extensions\git\dist\main.js:1:98365)
+	at u.fire (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:227)
+	at k.updateModelState (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\extensions\git\dist\main.js:1:116241)
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'e:\code\git\weibonlp\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'e:\code\git\weibonlp\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\extensions\git\dist\main.js:1:594639)
+	at T.updateTransientWatchers (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\extensions\git\dist\main.js:1:98365)
+	at u.fire (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:227)
+	at k.updateModelState (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\extensions\git\dist\main.js:1:116241)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'e:\code\git\weibonlp\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'e:\code\git\weibonlp\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\extensions\git\dist\main.js:1:594639)
+	at T.updateTransientWatchers (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\extensions\git\dist\main.js:1:98365)
+	at u.fire (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:227)
+	at k.updateModelState (d:\Program Files\VSCode-win32-x64-1.38.1\resources\app\extensions\git\dist\main.js:1:116241)

@@ -1,0 +1,4 @@
+[2019-09-21 10:00:20.095] [sharedprocess] [info] main {"machineId":"82deb32377bd2c5927d51135037091e1e5b9c7c2f1da0b3bab74e280dff7fc81"}
+[2019-09-21 10:00:20.577] [sharedprocess] [info] Deleted from disk eamodio.gitlens d:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\eamodio.gitlens-9.9.3
+[2019-09-21 10:01:00.106] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-09-21 10:01:00.108] [sharedprocess] [info] Skipping directory 454fb54f7306176d5760953f2a2878cb.zh-cn. Language pack still in use.

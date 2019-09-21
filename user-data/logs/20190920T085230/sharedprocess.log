@@ -1,0 +1,51 @@
+[2019-09-20 08:52:34.850] [sharedprocess] [info] main {"machineId":"82deb32377bd2c5927d51135037091e1e5b9c7c2f1da0b3bab74e280dff7fc81"}
+[2019-09-20 08:52:43.054] [sharedprocess] [info] Installing extension: davidanson.vscode-markdownlint
+[2019-09-20 08:52:43.396] [sharedprocess] [info] Downloaded extension: davidanson.vscode-markdownlint c:\Users\duoyi\AppData\Local\Temp\bbd91c22-b4cf-433d-aff9-d53ea0c60e94
+[2019-09-20 08:52:43.450] [sharedprocess] [info] Extracted extension to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\.davidanson.vscode-markdownlint-0.30.2: davidanson.vscode-markdownlint
+[2019-09-20 08:52:43.450] [sharedprocess] [info] Renamed to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\davidanson.vscode-markdownlint-0.30.2
+[2019-09-20 08:52:43.461] [sharedprocess] [info] Installation completed. davidanson.vscode-markdownlint
+[2019-09-20 08:52:43.487] [sharedprocess] [info] Extensions installed successfully: davidanson.vscode-markdownlint
+[2019-09-20 08:52:52.921] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-wsl
+[2019-09-20 08:52:53.240] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-wsl c:\Users\duoyi\AppData\Local\Temp\ba618cbf-2cfd-4d2b-aa9a-44b84083ed7a
+[2019-09-20 08:52:53.307] [sharedprocess] [info] Extracted extension to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\.ms-vscode-remote.remote-wsl-0.39.5: ms-vscode-remote.remote-wsl
+[2019-09-20 08:52:53.308] [sharedprocess] [info] Renamed to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\ms-vscode-remote.remote-wsl-0.39.5
+[2019-09-20 08:52:53.314] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-wsl
+[2019-09-20 08:52:53.355] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-wsl
+[2019-09-20 08:53:14.907] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-09-20 08:53:14.908] [sharedprocess] [info] Skipping directory 454fb54f7306176d5760953f2a2878cb.zh-cn. Language pack still in use.
+[2019-09-20 08:54:28.486] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2019-09-20 08:54:29.579] [sharedprocess] [info] Downloaded extension: eamodio.gitlens c:\Users\duoyi\AppData\Local\Temp\b44390df-09e1-48cf-8634-f960cedde620
+[2019-09-20 08:54:30.179] [sharedprocess] [info] Extracted extension to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\.eamodio.gitlens-9.9.3: eamodio.gitlens
+[2019-09-20 08:54:30.180] [sharedprocess] [info] Renamed to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\eamodio.gitlens-9.9.3
+[2019-09-20 08:54:30.194] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2019-09-20 08:54:30.254] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2019-09-20 08:54:43.195] [sharedprocess] [info] Installing extension: kevinrose.vsc-python-indent
+[2019-09-20 08:54:44.146] [sharedprocess] [info] Downloaded extension: kevinrose.vsc-python-indent c:\Users\duoyi\AppData\Local\Temp\84dcb834-344d-447b-ab50-0b07cec6fc34
+[2019-09-20 08:54:44.225] [sharedprocess] [info] Extracted extension to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\.kevinrose.vsc-python-indent-1.5.0: kevinrose.vsc-python-indent
+[2019-09-20 08:54:44.226] [sharedprocess] [info] Renamed to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\kevinrose.vsc-python-indent-1.5.0
+[2019-09-20 08:54:44.231] [sharedprocess] [info] Installation completed. kevinrose.vsc-python-indent
+[2019-09-20 08:54:44.274] [sharedprocess] [info] Extensions installed successfully: kevinrose.vsc-python-indent
+[2019-09-20 08:55:01.195] [sharedprocess] [info] Installing extension: mikey.vscode-fileheader
+[2019-09-20 08:55:01.754] [sharedprocess] [info] Downloaded extension: mikey.vscode-fileheader c:\Users\duoyi\AppData\Local\Temp\f83328be-d78c-486c-86c4-8e1352b8c525
+[2019-09-20 08:55:01.788] [sharedprocess] [info] Extracted extension to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\.mikey.vscode-fileheader-0.0.2: mikey.vscode-fileheader
+[2019-09-20 08:55:01.788] [sharedprocess] [info] Renamed to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\mikey.vscode-fileheader-0.0.2
+[2019-09-20 08:55:01.794] [sharedprocess] [info] Installation completed. mikey.vscode-fileheader
+[2019-09-20 08:55:01.832] [sharedprocess] [info] Extensions installed successfully: mikey.vscode-fileheader
+[2019-09-20 08:55:18.398] [sharedprocess] [info] Installing extension: wayou.vscode-todo-highlight
+[2019-09-20 08:55:18.827] [sharedprocess] [info] Downloaded extension: wayou.vscode-todo-highlight c:\Users\duoyi\AppData\Local\Temp\3cc865c2-084f-4c76-a6bf-f5b09dee7f8f
+[2019-09-20 08:55:18.905] [sharedprocess] [info] Extracted extension to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\.wayou.vscode-todo-highlight-1.0.4: wayou.vscode-todo-highlight
+[2019-09-20 08:55:18.905] [sharedprocess] [info] Renamed to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\wayou.vscode-todo-highlight-1.0.4
+[2019-09-20 08:55:18.911] [sharedprocess] [info] Installation completed. wayou.vscode-todo-highlight
+[2019-09-20 08:55:18.945] [sharedprocess] [info] Extensions installed successfully: wayou.vscode-todo-highlight
+[2019-09-20 08:55:27.384] [sharedprocess] [info] Installing extension: gruntfuggly.todo-tree
+[2019-09-20 08:55:27.936] [sharedprocess] [info] Downloaded extension: gruntfuggly.todo-tree c:\Users\duoyi\AppData\Local\Temp\ba560451-fdb9-46b3-9fd1-3f8cf22265e0
+[2019-09-20 08:55:31.245] [sharedprocess] [info] Extracted extension to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\.gruntfuggly.todo-tree-0.0.153: gruntfuggly.todo-tree
+[2019-09-20 08:55:31.247] [sharedprocess] [info] Renamed to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\gruntfuggly.todo-tree-0.0.153
+[2019-09-20 08:55:31.255] [sharedprocess] [info] Installation completed. gruntfuggly.todo-tree
+[2019-09-20 08:55:31.338] [sharedprocess] [info] Extensions installed successfully: gruntfuggly.todo-tree
+[2019-09-20 08:56:24.024] [sharedprocess] [info] Installing extension: pnp.polacode
+[2019-09-20 08:56:24.840] [sharedprocess] [info] Downloaded extension: pnp.polacode c:\Users\duoyi\AppData\Local\Temp\8b10b8bf-392e-49c8-b14f-b8ba77d8e577
+[2019-09-20 08:56:24.879] [sharedprocess] [info] Extracted extension to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\.pnp.polacode-0.3.2: pnp.polacode
+[2019-09-20 08:56:24.880] [sharedprocess] [info] Renamed to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\pnp.polacode-0.3.2
+[2019-09-20 08:56:24.887] [sharedprocess] [info] Installation completed. pnp.polacode
+[2019-09-20 08:56:24.921] [sharedprocess] [info] Extensions installed successfully: pnp.polacode

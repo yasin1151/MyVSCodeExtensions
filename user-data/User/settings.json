@@ -1,5 +1,7 @@
 {
     "extensions.ignoreRecommendations": false,
     "workbench.iconTheme": "vscode-icons",
-    "files.autoGuessEncoding": true
+    "files.autoGuessEncoding": true,
+    "editor.fontFamily": "Cascadia Code, 'Courier New', monospace",
+    "workbench.colorTheme": "Default Light+"
 }

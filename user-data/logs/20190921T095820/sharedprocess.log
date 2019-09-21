@@ -1,0 +1,9 @@
+[2019-09-21 09:58:25.968] [sharedprocess] [info] main {"machineId":"82deb32377bd2c5927d51135037091e1e5b9c7c2f1da0b3bab74e280dff7fc81"}
+[2019-09-21 09:58:30.471] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2019-09-21 09:58:31.722] [sharedprocess] [info] Downloaded extension: eamodio.gitlens c:\Users\duoyi\AppData\Local\Temp\61b58264-fcf9-452c-b011-2639bf978a34
+[2019-09-21 09:58:32.331] [sharedprocess] [info] Extracted extension to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\.eamodio.gitlens-10.0.0: eamodio.gitlens
+[2019-09-21 09:58:32.332] [sharedprocess] [info] Renamed to D:\Program Files\VSCode-win32-x64-1.38.1\data\extensions\eamodio.gitlens-10.0.0
+[2019-09-21 09:58:32.342] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2019-09-21 09:58:32.446] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2019-09-21 09:59:06.025] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-09-21 09:59:06.030] [sharedprocess] [info] Skipping directory 454fb54f7306176d5760953f2a2878cb.zh-cn. Language pack still in use.
